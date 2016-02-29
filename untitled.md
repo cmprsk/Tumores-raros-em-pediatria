@@ -1,1 +1,3 @@
-_Oh, an empty article!_ You can get started by **double clicking** this text block and begin editing. You can also click the **Text** button below to add new block elements. Or you can **drag and drop an image** right onto this text!
+##Sumário##
+
+Tumores raros ou infrequentes constituem uma classe de doenças neoplásicas de definição incerta, variável de autor para autor. Para fins deste projeto, consideramos tumores rartos  
