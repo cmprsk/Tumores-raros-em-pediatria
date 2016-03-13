@@ -1,3 +1,3 @@
 # RESUMO
 
-[Resumo do projeto - curto!]
+Tumores raros ou infrequentes constituem uma classe de doenças neoplásicas de definição incerta, variável de autor para autor. Para fins deste projeto, consideramos tumores raros aqueles de histologia predominantemente não embrionária e que têm maior incidência preferencialmente em adultos, além daqueles cuja incidência é tão pequena que não existem grupos cooperativos ou ensaios clínicos estudando estas doenças. 
